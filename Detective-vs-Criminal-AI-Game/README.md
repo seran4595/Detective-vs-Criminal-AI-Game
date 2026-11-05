@@ -62,7 +62,3 @@ Gameplay screenshots will be available in the `screenshots` folder.
 ## 👨‍💻 Developer
 
 Developed as an Artificial Intelligence project using Python and game-search algorithms.
-
-## 📄 License
-
-This project is licensed under the MIT License.
